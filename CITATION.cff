@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "eer2tiff"
+type: software
+authors:
+  - family-names: "Petrov"
+    given-names: "Petar"
+repository-code: "https://github.com/matterwaves/eer2tiff/tree/small_proteins"
+license: "MIT"
+abstract: "Command-line tool for binning EER movies into TIF movies."
+keywords:
+  - cryo-EM
+  - EER
+  - TIFF
+  - EMPIAR
+  - image processing
+version: "0.1.0"
+date-released: 2026-04-16
